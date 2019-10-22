@@ -1,4 +1,4 @@
-# Samplekmsweb
+# Serveless Conf portfolio
 
 This is a sample project to build a portfolio based of AWS. 
 

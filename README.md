@@ -8,3 +8,4 @@ Currently this portfolio is using
   * Route 53
   * KMS Service
   * Amazon Translate
+  * Dynamo DB
